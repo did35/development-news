@@ -2,17 +2,24 @@
   {
     "headline": "Baltic Radar Disruption",
     "summary": "NATO early warning systems briefly jammed.",
-    "timestamp": "2025-03-26T10:30:00Z"
+    "timestamp": "2025-03-26T10:30:00Z",
+    "latitude": 56.9496,
+    "longitude": 24.1052
   },
   {
     "headline": "New Battalion Deployment",
     "summary": "20th Mechanized Brigade seen relocating near Suwałki Gap.",
-    "timestamp": "2025-03-26T11:00:00Z"
+    "timestamp": "2025-03-26T11:00:00Z",
+    "latitude": 54.1275,
+    "longitude": 22.9330
   },
   {
     "headline": "Drone Swarm Crosses Romanian Border",
     "summary": "Unidentified drones entered airspace near Galati; origin under investigation.",
-    "timestamp": "2025-03-26T12:00:00Z"
+    "timestamp": "2025-03-26T12:00:00Z",
+    "latitude": 45.4333,
+    "longitude": 28.0500
   }
 ]
+
 
